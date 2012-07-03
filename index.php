@@ -10,7 +10,7 @@
         $animal = new Animal();
         $animal->getresult(4, 8);
         if (2 == 2) {
-            echo 3;
+            echo 8;
         }
         ?>
     </body>
