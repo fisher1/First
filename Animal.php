@@ -9,7 +9,8 @@ class Animal {
         $this->a = $a;
         $this->b = $b;
         echo $this->a + $this->b;
-        return 0;
+        return 1;
+
     }
 
 }
