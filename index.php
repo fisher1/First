@@ -12,6 +12,9 @@
         if (2 == 2) {
             echo 8;
         }
+        for($i=0;$i<10;$i++){
+            echo $i."</br>";
+        }
         ?>
     </body>
 </html>
